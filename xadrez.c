@@ -5,7 +5,7 @@
 
 int main() { // (Função principal do programa)
     printf("Desafio xadrez! \n");
-
+    
 // Variáveis da carta 1 
 char estado1; // (Guarda a letra do estado 'A-H')
 char codigo1[4]; // (Código da carta(ex:A01) 3 caracteres + '0'no fim)
