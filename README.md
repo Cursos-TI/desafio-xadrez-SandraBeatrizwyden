@@ -6,6 +6,6 @@ Projeto em C que cadastra duas cartas de cidades, mostrando:
 - Comparação dos atributos para ver qual carta vence
 
 Para rodar:
-```bash
+
 gcc super_trunfo.c -o super_trunfo
 ./super_trunfo
