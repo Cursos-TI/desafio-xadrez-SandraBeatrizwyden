@@ -1,12 +1,11 @@
-Super Trunfo - Cadastro de Cartas
-Programa em C que cadastra duas cartas com informações de cidades: estado, código, nome, população, área, PIB e pontos turísticos.
+# Super Trunfo - Desafio Xadrez
 
-Como usar:
+Projeto em C que cadastra duas cartas de cidades, mostrando:
+- População, área, PIB e pontos turísticos
+- Cálculo da densidade, PIB per capita e Super Poder
+- Comparação dos atributos para ver qual carta vence
 
-Compile o programa com:
+Para rodar:
+```bash
 gcc super_trunfo.c -o super_trunfo
-
-Rode o programa com:
 ./super_trunfo
-
-Digite as informações pedidas e veja as cartas cadastradas na tela
