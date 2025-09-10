@@ -5,11 +5,13 @@ Funções:
 main()
 printf()
 scanf()
+
 Tipos de dados:
 char
 int
 unsigned long int
 float
+
 Variáveis da Carta 1:
 estado1
 codigo1
@@ -21,6 +23,7 @@ pontosTuristicos1
 densidade1
 pibPerCapita1
 superPoder1
+
 Variáveis da Carta 2:
 estado2
 codigo2
@@ -32,6 +35,7 @@ pontosTuristicos2
 densidade2
 pibPerCapita2
 superPoder2
+
 Operadores:
 = (atribuição)
 + (adição)
@@ -40,6 +44,7 @@ Operadores:
 < (menor que)
 ? : (operador ternário)
 & (endereço, usado no scanf)
+
 Especiais / literais:
 %c (placeholder para char)
 %3s (placeholder para string de até 3 caracteres)
@@ -49,5 +54,6 @@ Especiais / literais:
 %f (placeholder para float)
 \n (nova linha)
 " " (espaço usado no scanf para ignorar caracteres extras)
+
 Comentários:
 // (comentário de linha)
